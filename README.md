@@ -1,4 +1,4 @@
-## **_Website_**:[https://durgacapitals.ccbp.tech/](https://durgacapitals.ccbp.tech/)🔗
+## **_Website_**:[https://capitals-app-snowy.vercel.app/](https://capitals-app-snowy.vercel.app/)🔗
 
 
 
